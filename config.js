@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.tutanota.com/mail/MpwRYqw-0J-2',
 		},
 		{
 			id: '3',
