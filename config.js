@@ -140,7 +140,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Fmovies',
-					link: 'https://www.fmovies.com',
+					link: 'https://www.fmovies.to',
 				},
 				{
 					name: '9anime',
