@@ -157,16 +157,16 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'laptop-2',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'AdGuard Home',
+					link: 'http://192.168.178.24/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Fritzbox',
+					link: 'http://192.168.178.1/',
 				},
 				{
 					name: 'Trello',
