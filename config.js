@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'http://192.168.178.1/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Heimdall',
+					link: 'http://192.168.178.54/',
 				},
 				{
 					name: 'Slack',
