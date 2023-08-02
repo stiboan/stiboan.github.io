@@ -143,8 +143,8 @@ const CONFIG = {
 					link: 'https://www.fmovies.to',
 				},
 				{
-					name: '9anime',
-					link: 'https://www.9anime.id',
+					name: 'AniWave',
+					link: 'https://aniwave.to/home',
 				},
 				{
 					name: 'Netflix',
